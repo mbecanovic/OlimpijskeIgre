@@ -1,0 +1,10 @@
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\bin\Debug\OlimpijskeIgre.exe.config
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\bin\Debug\OlimpijskeIgre.exe
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\bin\Debug\OlimpijskeIgre.pdb
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\obj\Debug\OlimpijskeIgre.csproj.AssemblyReference.cache
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\obj\Debug\OlimpijskeIgre.csproj.CoreCompileInputs.cache
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\obj\Debug\OlimpijskeIgre.exe
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\obj\Debug\OlimpijskeIgre.pdb
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\bin\Debug\Newtonsoft.Json.dll
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\bin\Debug\Newtonsoft.Json.xml
+C:\Users\burag\OneDrive\Desktop\OI\OlimpijskeIgre\OlimpijskeIgre\obj\Debug\Olimpijs.F1B425E0.Up2Date
